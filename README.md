@@ -13,3 +13,7 @@ fork https://github.com/breadwallet/breadwallet-android
 9. Build -> Rebuild Project
 
 Did step 1~9
+
+## init version
+I just import project and fixed IDE RUN button failed at "Error: Please select Android SDK" problem.
+As https://www.itread01.com/content/1544439965.html
